@@ -5,12 +5,17 @@ canvas.width = window.innerWidth;
 canvas.height = window.innerHeight;
 
 function animate(){
-  requestAnimationFrame(animate);
-  // Schrijf hier je eigen code
-
-  // De regel hieronder mag je weghalen
-  console.log("animate!");
+  requestAnimationFrame(animate)
+  ctx.beginPath();
+  ctx.arc(getRandom(canvas.width),getRandom(canvas.height),10,0,Math.PI*2);
+  ctx.fillStyle = "red";
+  ctx.stroke();
+  ctx.fill();
+  ctx.closePath();
 }
 
 animate();
 
+function getRandom(max){
+  return Math.floor(Math.random()*max)
+}
