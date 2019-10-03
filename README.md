@@ -14,11 +14,15 @@ Lees deze uitleg en probeer de opdrachten die er onder staan
 
 Hulp: https://www.w3schools.com/graphics/canvas_drawing.asp
 
+---
+
 #### Opdracht 2
 - Probeer een streep (line) te tekenen
 - Maak nu een lijn  
 
 Hulp: https://www.w3schools.com/graphics/canvas_coordinates.asp
+
+---
 
 #### Opdracht 3
 - Probeer een cirkel te tekenen
@@ -28,12 +32,15 @@ Hulp: https://www.w3schools.com/graphics/canvas_coordinates.asp
 
 Hulp: https://www.w3schools.com/graphics/canvas_coordinates.asp
 
+---
+
 #### Opdracht 4
 - Schrijf volgende tekst op het canvas: "Welkom bij Ma!"
 - Probeer nu de letter M in het wit en de letter a in het zwart te maken
 
 Hulp: https://www.w3schools.com/graphics/canvas_text.asp
 
+---
 
 #### Opdracht 5
 Gebruik deze code om een random getal te krijgen tussen 
@@ -50,9 +57,10 @@ let y = random(100);
 ctx.moveTo(x,y);
 ```
 
+---
+
 #### Opdracht 6
-Gebruik nu deze code in iets meerdere keren achter elkaar uit te voeren (een loop)
-Zet tien keer het Ma Logo op het canvas:
+* Gebruik nu de code die hier onder staat om iets 10 keer achter elkaar uit te voeren (een loop)
 
 ![Mediacollege Logo](images/ma-logo.png)
 
@@ -64,4 +72,6 @@ for(let i=0; i<10; i++){
 }
 ```
 
-![Olympische ringen](images/rings.png)
+* Zet tien keer het Ma Logo op het canvas op een willekeurige (random) plaats
+
+---
