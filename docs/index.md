@@ -28,7 +28,7 @@ Hulp: https://www.w3schools.com/graphics/canvas_coordinates.asp
 - Probeer een cirkel te tekenen
 - Kun je nu ook de Olympische ringen maken? 
 
-![Olympische ringen](docs/images/rings.png)
+![Olympische ringen](images/rings.png)
 
 Hulp: https://www.w3schools.com/graphics/canvas_coordinates.asp
 
@@ -62,7 +62,7 @@ ctx.moveTo(x,y);
 #### Opdracht 6
 * Gebruik nu de code die hier onder staat om iets 10 keer achter elkaar uit te voeren (een loop)
 
-![Mediacollege Logo](docs/images/ma-logo.png)
+![Mediacollege Logo](images/ma-logo.png)
 
 Zit op de plek waar `//Jouw code hier` de oplossing
 
