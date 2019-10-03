@@ -12,7 +12,7 @@ Lees deze uitleg en probeer de opdrachten die er onder staan
 - Teken een rechthoek op x=100, y=200 met een width van 300 en een height van 200;
 - Zorg dat de rechthoek een andere kleur dan zwart krijgt (lees over [kleuren](https://www.w3schools.com/css/css_colors.asp)) 
 
-Hulp: https://www.w3schools.com/graphics/canvas_drawing.asp
+[Hulp](https://www.w3schools.com/graphics/canvas_drawing.asp)
 
 ---
 
@@ -20,7 +20,7 @@ Hulp: https://www.w3schools.com/graphics/canvas_drawing.asp
 - Probeer een streep (line) te tekenen
 - Maak nu een lijn  
 
-Hulp: https://www.w3schools.com/graphics/canvas_coordinates.asp
+[Hulp](https://www.w3schools.com/graphics/canvas_coordinates.asp)
 
 ---
 
@@ -30,7 +30,7 @@ Hulp: https://www.w3schools.com/graphics/canvas_coordinates.asp
 
 ![Olympische ringen](images/rings.png)
 
-Hulp: https://www.w3schools.com/graphics/canvas_coordinates.asp
+[Hulp](https://www.w3schools.com/graphics/canvas_coordinates.asp)
 
 ---
 
@@ -38,7 +38,7 @@ Hulp: https://www.w3schools.com/graphics/canvas_coordinates.asp
 - Schrijf volgende tekst op het canvas: "Welkom bij Ma!"
 - Probeer nu de letter M in het wit en de letter a in het zwart te maken
 
-Hulp: https://www.w3schools.com/graphics/canvas_text.asp
+[Hulp](https://www.w3schools.com/graphics/canvas_text.asp)
 
 ---
 
