@@ -4,4 +4,4 @@
 
 ---
 
-[Lees hier de uitleg en opdrachten](docs/index.md)
+[Lees hier de uitleg en opdrachten](https://mediacollegeamsterdam.github.io/LeerlingBezoekDagLiveJavascript/)
