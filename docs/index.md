@@ -60,11 +60,8 @@ ctx.moveTo(x,y);
 ---
 
 #### Opdracht 6
-* Gebruik nu de code die hier onder staat om iets 10 keer achter elkaar uit te voeren (een loop)
-
-![Mediacollege Logo](images/ma-logo.png)
-
-Zit op de plek waar `//Jouw code hier` de oplossing
+* Gebruik nu de code die hier onder staat om iets 10 keer achter elkaar uit te voeren (een loop)  
+* Zet op de plek waar `//Jouw code hier` staat in de voorbeeldcode, jouw code.
 
 ```javascript
 for(let i=0; i<10; i++){
@@ -73,5 +70,7 @@ for(let i=0; i<10; i++){
 ```
 
 * Probeer tien keer het Ma Logo op het canvas te zetten op een willekeurige (random) positie.
+
+![Mediacollege Logo](images/ma-logo.png)
 
 ---
