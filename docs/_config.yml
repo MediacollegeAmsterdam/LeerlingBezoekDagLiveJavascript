@@ -1,3 +1,6 @@
 theme: jekyll-theme-slate
 title: Leerlingbezoekdag Live Javascript
 description: Javascript opdracht om zelf aan te werken tijdens de Live Javascript sessie.
+github:
+  is_project_page: false
+show_downloads: true

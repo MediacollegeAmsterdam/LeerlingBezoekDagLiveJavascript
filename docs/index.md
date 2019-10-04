@@ -43,7 +43,7 @@ Lees deze uitleg en probeer de opdrachten die er onder staan
 ---
 
 #### Opdracht 5
-Gebruik deze code om een random getal te krijgen tussen 
+Gebruik deze code om een random getal te krijgen tussen 0 en `max`
 
 ```javascript
 function getRandom(max){
@@ -52,8 +52,12 @@ function getRandom(max){
 ```
 
 ```javascript
-let x = random(100);
-let y = random(100);
+// x = willekeurig getal tussen 0 en 100
+let x = getRandom(100);
+
+// y = willekeurig getal tussen 0 en 200
+let y = getRandom(200);
+
 ctx.moveTo(x,y);
 ```
 
@@ -67,10 +71,10 @@ ctx.moveTo(x,y);
 
 ```javascript
 for(let i=0; i<10; i++){
-    //Jouw code hier
+    //Jouw code hier schrijven, dit wordt 10x uitgevoerd
 }
 ```
 
-![Mediacollege Logo](images/ma-logo.png)
+![Mediacollege Logo](assets/ma-logo.png)
 
 ---
