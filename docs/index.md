@@ -1,4 +1,13 @@
-# Leerlingbezoek dag 
+# Leerlingbezoek dag
+
+In deze les ga je leren hoe je met behulp van javascript kan tekenen op een webpagina. Wij hebben alvast wat voorbereidingen voor je gedaan, zodat je daarmee meteen kan beginnen. Onze voorbereidingen bestaan eruit zodat
+- wij hebben een webpagina gemaakt met de naam index.html
+- wij hebben op de webpagina een header en een body gemaakt
+- wij hebben in de header een link naar een stijl-pagina opgenomen
+- wij hebben in de body een canvas element geplaatst
+- wij hebben op de een link naar een javascript-bestand opgenomen
+- wij hebben in het javascriptbestand een link gemaakt met het canvas-element op de index webpagina
+- wij hebben op het canvas-element een 2d context aangebracht, zodat je op de kanvas kan tekenen
 
 #### 30 oktober 2019
 
@@ -7,10 +16,11 @@ Lees deze uitleg en probeer de opdrachten die er onder staan
 
 
 
+
 #### Opdracht 1
 - Teken een rechthoek (fillRect) op het canvas
 - Teken een rechthoek op x=100, y=200 met een width van 300 en een height van 200;
-- Zorg dat de rechthoek een andere kleur dan zwart krijgt (lees over [kleuren](https://www.w3schools.com/css/css_colors.asp)) 
+- Zorg dat de rechthoek een andere kleur dan zwart krijgt (lees over [kleuren](https://www.w3schools.com/css/css_colors.asp))
 
 [Hulp](https://www.w3schools.com/graphics/canvas_drawing.asp)
 
@@ -26,7 +36,7 @@ Lees deze uitleg en probeer de opdrachten die er onder staan
 
 #### Opdracht 3
 - Probeer een cirkel te tekenen
-- Kun je nu ook de Olympische ringen maken? 
+- Kun je nu ook de Olympische ringen maken?
 
 ![Olympische ringen](assets/rings.png)
 
