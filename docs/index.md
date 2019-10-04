@@ -28,7 +28,7 @@ Lees deze uitleg en probeer de opdrachten die er onder staan
 - Probeer een cirkel te tekenen
 - Kun je nu ook de Olympische ringen maken? 
 
-![Olympische ringen](images/rings.png)
+![Olympische ringen](assets/rings.png)
 
 [Hulp](https://www.w3schools.com/graphics/canvas_coordinates.asp)
 
