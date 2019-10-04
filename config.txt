@@ -1,0 +1,65 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : LT20124
+   Primary Dns Suffix  . . . . . . . : media.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : media.local
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : media.local
+   Description . . . . . . . . . . . : Intel(R) 82579LM Gigabit Network Connection
+   Physical Address. . . . . . . . . : D4-BE-D9-68-13-6D
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 60-67-20-51-4A-57
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 3:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 62-67-20-51-4A-56
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : media.local
+   Description . . . . . . . . . . . : Intel(R) Centrino(R) Advanced-N 6205
+   Physical Address. . . . . . . . . : 60-67-20-51-4A-56
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::e4ce:d539:c8ff:1350%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 10.123.16.137(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.224.0
+   Lease Obtained. . . . . . . . . . : maandag 16 september 2019 10:47:54
+   Lease Expires . . . . . . . . . . : vrijdag 20 september 2019 16:18:11
+   Default Gateway . . . . . . . . . : 10.123.0.1
+   DHCP Server . . . . . . . . . . . : 172.17.1.11
+   DHCPv6 IAID . . . . . . . . . . . : 73426720
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-24-38-F4-BF-D4-BE-D9-68-13-6D
+   DNS Servers . . . . . . . . . . . : 172.17.1.10
+                                       172.17.1.11
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 74-E5-43-54-C1-F7
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
