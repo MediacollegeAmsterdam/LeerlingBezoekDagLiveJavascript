@@ -1,6 +1,6 @@
 # Leerlingbezoek dag
 
-In deze les ga je leren hoe je met behulp van javascript kan tekenen op een webpagina. Wij hebben alvast wat voorbereidingen voor je gedaan, zodat je daarmee meteen kan beginnen. Onze voorbereidingen bestaan eruit zodat
+In deze les ga je leren hoe je met behulp van javascript kan tekenen op een webpagina. Wij hebben alvast wat voorbereidingen voor je gedaan, zodat je daarmee meteen kan beginnen. Onze voorbereidingen bestaan eruit zodat:
 
 - wij hebben een webpagina gemaakt met de naam index.html
 - wij hebben op de webpagina een header en een body gemaakt
@@ -9,6 +9,9 @@ In deze les ga je leren hoe je met behulp van javascript kan tekenen op een webp
 - wij hebben op de een link naar een javascript-bestand opgenomen
 - wij hebben in het javascriptbestand een link gemaakt met het canvas-element op de index webpagina
 - wij hebben op het canvas-element een 2d context aangebracht, zodat je op de canvas kan tekenen
+
+** <a class="zip_download_link" href="{{ site.github.zip_url }}">Download eerst het zip-bestand met de start code</a>** en pak het bestand uit.  
+Open dan de folder in je code editor en ga aan de slag in de bestanden `index.html` en `script.js`.
 
 #### 30 oktober 2019
 
