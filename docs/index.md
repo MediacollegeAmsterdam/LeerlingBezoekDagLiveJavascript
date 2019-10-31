@@ -13,6 +13,8 @@ In deze les ga je leren hoe je met behulp van javascript kan tekenen op een webp
 <a href="{{ site.github.zip_url }}">Download eerst het zip-bestand met de start code</a> en pak het bestand uit.  
 Open dan de folder in je code editor en ga aan de slag in de bestanden `index.html` en `script.js`.
 
+---
+
 #### 30 oktober 2019
 
 Lees deze uitleg en probeer de opdrachten die er onder staan.
